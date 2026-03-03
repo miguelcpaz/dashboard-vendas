@@ -52,40 +52,40 @@ Exemplo:
 
 1. Clone o repositório:
 
-
+```
 git clone https://github.com/seuusuario/dashboard-vendas-python.git
-
+```
 
 2. Acesse a pasta do projeto:
 
-
+```
 cd dashboard-vendas-python
-
+```
 
 3. Crie o ambiente virtual:
 
-
+```
 python -m venv venv
-
+```
 
 4. Ative o ambiente virtual:
 
 Windows:
-
+```
 venv\Scripts\activate
-
+```
 
 5. Instale as dependências:
 
-
+```
 pip install -r requirements.txt
-
+```
 
 6. Execute a aplicação:
 
-
+```
 streamlit run app.py
-
+```
 
 ---
 
